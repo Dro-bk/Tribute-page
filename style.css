@@ -14,14 +14,14 @@ body{
     ". content2 ."
     ". footer .";
   grid-gap: 20px;
-  font-size: 20px;
+  font-size: 18px;
 }
 #title{
   background-image: linear-gradient(to right, #F3D403, #fff);
   grid-area: header;
   border: 5px solid #000000;
   border-radius: 35px;
-  font-size: 25px;
+  font-size: 22px;
   background-color: #F5F5F5;
   color: #CC4224;
 }
